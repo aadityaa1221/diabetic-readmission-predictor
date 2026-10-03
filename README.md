@@ -34,5 +34,5 @@ To provide a clear understanding of the project's technical composition, the arc
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/diabetic-readmission-predictor.git](https://github.com/YOUR-USERNAME/diabetic-readmission-predictor.git)
+   git clone [https://github.com/aadityaa1221/diabetic-readmission-predictor.git](https://github.com/aadityaa1221/diabetic-readmission-predictor.git)
    cd diabetic-readmission-predictor
